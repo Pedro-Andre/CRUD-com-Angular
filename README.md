@@ -2,6 +2,8 @@
 
 Este é um projeto desenvolvido como parte de um curso oferecido pela UNICEPLAC aos alunos dos cursos de TI, utilizando Angular 16 para o desenvolvimento front-end, com estilização através do Bootstrap e componentes do Angular Material.
 
+![image](https://github.com/user-attachments/assets/d1e33091-012b-4d97-a8ab-044976f19c43)
+
 ## 🛠️ Tecnologias Utilizadas
 
 | • [Angular 16](https://angular.io/)                | • [Bootstrap](https://getbootstrap.com/)        |
