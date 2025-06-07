@@ -2,28 +2,14 @@
 
 Este é um projeto desenvolvido como parte de um curso oferecido pela UNICEPLAC aos alunos dos cursos de TI, utilizando Angular 16 para o desenvolvimento front-end, com estilização através do Bootstrap e componentes do Angular Material.
 
-<<<<<<< HEAD
-=======
 ![image](https://github.com/user-attachments/assets/d1e33091-012b-4d97-a8ab-044976f19c43)
 
->>>>>>> a2b09ef4cae2d046a533444300590c4e9b7941ef
 ## 🛠️ Tecnologias Utilizadas
 
 | • [Angular 16](https://angular.io/)                | • [Bootstrap](https://getbootstrap.com/)        |
 | -------------------------------------------------- | ----------------------------------------------- |
 | • [Angular Material](https://material.angular.io/) | • [TypeScript](https://www.typescriptlang.org/) |
-<<<<<<< HEAD
-
 • [REQRES.in API](https://reqres.in/)
-
-## ✅ Funcionalidades
-
-- ✅ Listagem de registros (Read)
-- ✅ Criação de novos registros (Create)
-- ✅ Edição de registros existentes (Update)
-- ✅ Exclusão de registros (Delete)
-=======
-| • [REQRES.in API](https://reqres.in/) |
 
 ## ✅ Funcionalidades
 
@@ -31,7 +17,6 @@ Este é um projeto desenvolvido como parte de um curso oferecido pela UNICEPLAC 
 - ✅ Criação de novos usuários (Create)
 - ✅ Edição de usuários existentes (Update)
 - ✅ Exclusão de usuários (Delete)
->>>>>>> a2b09ef4cae2d046a533444300590c4e9b7941ef
 - ✅ Consumo de API REST (REQRES.in)
 - ✅ Estilização responsiva com Bootstrap
 - ✅ Componentes com Angular Material
@@ -73,7 +58,7 @@ npm install
 • Execute o projeto:
 
 ```
-ng serve
+ng serve --open
 ```
 
 • Acesse no navegador:
