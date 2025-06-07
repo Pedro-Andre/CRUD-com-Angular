@@ -1,27 +1,67 @@
-# CrudLogin
+# CRUD com Angular 16, Bootstrap e Angular Material
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+Este é um projeto desenvolvido como parte de um curso oferecido pela UNICEPLAC aos alunos dos cursos de TI, utilizando Angular 16 para o desenvolvimento front-end, com estilização através do Bootstrap e componentes do Angular Material.
 
-## Development server
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+| • [Angular 16](https://angular.io/)                | • [Bootstrap](https://getbootstrap.com/)        |
+| -------------------------------------------------- | ----------------------------------------------- |
+| • [Angular Material](https://material.angular.io/) | • [TypeScript](https://www.typescriptlang.org/) |
 
-## Code scaffolding
+• [REQRES.in API](https://reqres.in/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✅ Funcionalidades
 
-## Build
+- ✅ Listagem de registros (Read)
+- ✅ Criação de novos registros (Create)
+- ✅ Edição de registros existentes (Update)
+- ✅ Exclusão de registros (Delete)
+- ✅ Consumo de API REST (REQRES.in)
+- ✅ Estilização responsiva com Bootstrap
+- ✅ Componentes com Angular Material
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📦 Pré-requisitos
 
-## Running unit tests
+Para rodar o projeto, verifique se você tem os seguintes itens instalados:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [Angular CLI](https://angular.io/cli)
 
-## Running end-to-end tests
+• Para instalar o Angular CLI, execute no terminal:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+npm install -g @angular/cli
+```
 
-## Further help
+## 🚀Instalação e Execução
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+• Clone o repositório:
+
+```
+git clone https://github.com/Pedro-Andre/CRUD-com-Angular.git
+```
+
+• Acesse o diretório do projeto:
+
+```
+cd 'nome-do-repositorio'
+```
+
+• Instale as dependências:
+
+```
+npm install
+```
+
+• Execute o projeto:
+
+```
+ng serve
+```
+
+• Acesse no navegador:
+
+```
+http://localhost:4200/
+```
